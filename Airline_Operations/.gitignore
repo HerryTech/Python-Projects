@@ -1,0 +1,6 @@
+~$*
+
+# Ignore raw dataset files
+Dataset/CSV/
+
+Dataset/archive.zip
