@@ -1,6 +1,5 @@
 ~$*
-
-# Ignore large files
 Dataset/archive.zip
 Dataset/CSV/
 *.csv
+.ipynb_checkpoints/
