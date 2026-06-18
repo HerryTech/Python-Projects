@@ -1,4 +1,4 @@
 ~$*
 
-# Ignore raw dataset files
+# Ignore large files
 Dataset/archive.zip
